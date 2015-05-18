@@ -1,0 +1,28 @@
+{
+  "name": "quick-insert",
+  "version": "1.0.0",
+  "description": "Simple quicksort-style array insertion function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jo/quick-insert.git"
+  },
+  "keywords": [
+    "array",
+    "quicksort",
+    "insert"
+  ],
+  "author": "Johannes J. Schmidt <schmidt@netzmerk.com> (http://die-tf.de/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jo/quick-insert/issues"
+  },
+  "homepage": "https://github.com/jo/quick-insert#readme",
+  "devDependencies": {
+    "tap-spec": "^3.0.0",
+    "tape": "^4.0.0"
+  }
+}
