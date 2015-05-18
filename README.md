@@ -1,6 +1,8 @@
 # Quick Insert
 Simple quicksort-style array insertion function.
 
+[![Build Status](https://travis-ci.org/jo/quick-insert.svg?branch=master)](https://travis-ci.org/jo/quick-insert)
+
 Based on
 http://stackoverflow.com/questions/3423394/algorithm-of-javascript-sort-function
 
