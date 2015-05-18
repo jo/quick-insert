@@ -6,7 +6,7 @@ http://stackoverflow.com/questions/3423394/algorithm-of-javascript-sort-function
 
 ## Usage
 ```js
-var quickInsert = require('./')
+var quickInsert = require('quick-insert')
 
 var numbers = [1,3];
 quickInsert(2, numbers)
